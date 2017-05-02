@@ -33,3 +33,8 @@ setInterval(() => {
 Because all data is recorded by timestamp, seconds is used to count up the data from second 0.
 
 You can also get a specific file by it´s timestamp using `DataExplorer.getFileData(timestamp)`.
+
+## Data example
+
+Objects retrieved looks like [this](https://github.com/LeMansHack/DataExplorer/blob/master/data/1402765752863.json)
+
