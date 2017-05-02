@@ -1,0 +1,16 @@
+{
+  "name": "lemandataexplorer",
+  "version": "1.0.0",
+  "description": "Data repo and explorer for LeMans test data",
+  "main": "dataexplorer.js",
+  "repository": {
+    "url": "https://github.com/LeMansHack/DataExplorer.git",
+    "type": "git"
+  },
+  "author": "Kasper Baagø<kasper@kasperbaago.dk>",
+  "license": "MIT",
+  "dependencies": {
+    "graceful-fs": "^4.1.11",
+    "moment": "^2.18.1"
+  }
+}
